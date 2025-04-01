@@ -35,7 +35,7 @@ python spelling_tutor.py
 ## Installation 
 ```bash
 pip install matplotlib
-git clone https://github.com/yourusername/Spelling-Tutor-ITS.git
+git clone https://github.com/KULANEAisha/Spelling-Tutor-ITS.git
 cd Spelling-Tutor-ITS
 
 
