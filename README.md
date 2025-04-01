@@ -13,15 +13,7 @@ An Intelligent Tutoring System for adaptive spelling practice with performance t
 -  **Contextual Hints**: Meaning-based clues for each word
 -  **Progress Tracking**: Maintains correct/incorrect answer ratios
 
-## Installation 
-```bash
-pip install matplotlib
-git clone https://github.com/yourusername/Spelling-Tutor-ITS.git
-cd Spelling-Tutor-ITS
-
-Usage:  python spelling_tutor.py
-
-##Example Session
+## Key Features 
 Fill in the missing letters:
  Word: p_ _ amid
  Hint: A triangular structure
@@ -31,3 +23,15 @@ Your answer: pyramid
 [Performance graph displayed]
 
 Great job! Let's try some harder words!
+
+## Usage 
+python spelling_tutor.py
+
+## Installation 
+```bash
+pip install matplotlib
+git clone https://github.com/yourusername/Spelling-Tutor-ITS.git
+cd Spelling-Tutor-ITS
+
+
+
