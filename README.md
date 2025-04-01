@@ -15,12 +15,17 @@ An Intelligent Tutoring System for adaptive spelling practice with performance t
 
 ## Key Features 
 Fill in the missing letters:
+
  Word: p_ _ amid
+ 
  Hint: A triangular structure
+ 
 Your answer: pyramid
+
 ✅ Correct!
 
 [Performance graph displayed]
+
 
 Great job! Let's try some harder words!
 
